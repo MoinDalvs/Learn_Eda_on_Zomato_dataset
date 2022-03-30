@@ -8,3 +8,4 @@ Zomato Dataset What is the top most preferred Cuisines?
 ![newplot (1)](https://user-images.githubusercontent.com/99672298/160768236-4a94783a-92c3-44cb-9844-05024610f21b.png)
 ![image](https://user-images.githubusercontent.com/99672298/160768324-7759934d-d311-418d-94ba-2d7256c307a3.png)
 ![image](https://user-images.githubusercontent.com/99672298/160768521-a9ff5595-2e5c-499b-a6c1-734beab61421.png)
+![newplot (2)](https://user-images.githubusercontent.com/99672298/160768601-e663d8ab-3d0e-44a5-8d8a-8dc53a3b03ea.png)
